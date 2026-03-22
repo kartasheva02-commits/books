@@ -12,5 +12,5 @@
 ## Установка
 
 `bash
-git clone https://github.com/your-username/projectB.git
+git clone https://github.com/kartasheva02-commits/books/tree/main
 cd library-projec
